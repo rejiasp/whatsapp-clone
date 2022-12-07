@@ -28,7 +28,7 @@ class CallScreen extends StatelessWidget {
         image:
             "https://cdn6.aptoide.com/imgs/1/2/2/1221bc0bdd2354b42b293317ff2adbcf_icon.png"),
     Calls(
-        name: "Hathim nafz",
+        name: "Hathim nafz pp",
         isCall: true,
         isVideoCall: false,
         time: "09:AM",
